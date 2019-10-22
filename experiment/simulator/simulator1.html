@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<font size="10">
+<center><u>Calculate Standard Deviation</u></center><br>
+</font> 
+<script>
+
+function add(){
+var a,b,c,d,e,f,g,h,i,j,l,m,n,s,t,u,v,w,x;
+a=Number(document.getElementById("first").value);
+b=Number(document.getElementById("second").value);
+d=Number(document.getElementById("third").value);
+e=Number(document.getElementById("four").value);
+f=Number(document.getElementById("five").value);
+g=5
+c= a+b+d+e+f;
+h=c/g;
+
+i=a-h;
+j=b-h;
+
+l=d-h;
+m=e-h;
+n=f-h;
+
+p=i*i;
+q=j*j;
+
+s=l*l;
+t=m*m;
+u=n*n;
+
+w=p+q+s+t+u;
+x=w/g;
+
+  document.getElementById("answer").value= x;
+
+}
+</script>
+</head>
+<body>
+	Enter the First number X1 : <input id="first"><br><br>
+Enter the Second number X2 : <input id="second"><br><br>
+Enter the third number X3 : <input id="third"><br><br>
+Enter the four number X4 :<input id="four"><br><br>
+Enter the five number X5 : <input id="five"><br><br>
+
+
+<input id="answer">
+<button onclick="add()">Calculate</button>
+</body>
+</html>
