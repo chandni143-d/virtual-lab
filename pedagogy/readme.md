@@ -27,7 +27,6 @@ S.No.| Learning Objective | Cognitive Level | Action Verb|
     <br>
  
 #### 3. Task & Assessment Questions
- 
 Sr No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--|
 1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure. | .
