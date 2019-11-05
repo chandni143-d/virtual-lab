@@ -57,8 +57,7 @@ Identified the required Kjeldahl distillation apparatus, glassware’s and under
 4.Take 3 number 500ml conical flask and add 50ml boric acid+ mixed indicator in all conical flask. Then Connect the distillation flask and check for any leakage and start boiling up to boric acid become 200ml. | Simulation display 3 number 500ml conical flask and adding 50ml boric acid+ mixed indicator in all conical flask and start boiling with the help of mouse pointer. | Taking the conical flask and adding the reagents in the samples.
 5.Cool and Titrate collected distillate with 0.02N sulphuric acid until solution turn lavender colour. | Simulation display the glassware and show the titration with the help of mouse pointer. | For titration of the distillate solutions.
 6.Using formula calculate the concentration of Ammonia-Nitrogen | And calculate using formula with the help of mouse pointer. . | For calculation of concentration of Ammonia- Nitrogen
-7.Compare and conclude the standard conc. to experimental conc. of standard solution.
-If error is <5% accept otherwise repeat test. | Simulation display standard conc. to experimental conc. of standard solution and compare is it   <5%. | To understand the comparison between standard conc. and experimental conc.
+7.Compare and conclude the standard conc. to experimental conc. of standard solution.If error is <5% accept otherwise repeat test. | Simulation display standard conc. to experimental conc. of standard solution and compare is it   <5%. | To understand the comparison between standard conc. and experimental conc.
 	
 
 	
