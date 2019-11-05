@@ -24,6 +24,7 @@ S.No.| Learning Objective | Cognitive Level | Action Verb|
 
 <h5>2.3 Description of sections:</h5>
     To design experimental and calculation based simulator. The simulator would be a frame work that provide Kjeldahl apparatus details, reagent details, procedure and calculation to find out concentration of NH3-N in water and waste sample.
+    <br>
  
 #### 3. Task & Assessment Questions
  
