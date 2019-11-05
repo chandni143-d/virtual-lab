@@ -5,12 +5,12 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab. | <b> Environmental science & Engineering
-<b> Experiment|     <b> To determined the concentration of Ammonia Nitrogen (NH<sub>3</sub>-H) in water sample
+<b> Experiment|     <b> To determine the concentration of Ammonia Nitrogen (NH<sub>3</sub>-H) in water sample
 
 
 
 <h5> About the Experiment : </h5>
-.To determined the concentration of Ammonia Nitrogen (NH<sub>3</sub>-H) in water sample
+.To determine the concentration of Ammonia Nitrogen (NH<sub>3</sub>-H) in water sample
 
 <b>Name of Faculty Member | <b>Mr. Pradeep Kumar Verma
 :--|:--|
