@@ -1,12 +1,13 @@
- ## 1.1 FOCUS AREA: 
+  ## 1.1 FOCUS AREA: 
           Instrumental & Practical Skills.
 
 <h5> 1.2About the Experiment:</h5>
         This Experiment will help the student to understand the experimental setup/requirement reagent and analyze the concentration of NH3-N of water and waste water sample.
 
 <h5> 1.3 Learning Objectives:</h5>
-:--|:--|:--|:--|
+
 S .No. | Learning Objective | Cognitive Level | Action Verb|
+:--|:--|:--|:--|
 1. | Understand Kjeldahl distillation apparatus an reagent requirements.| Understand| Describe
 2. | Student will be understand sample Storage and selection of sample quantity for test. | Understand | Describe
 3. | Student will be able to perform the experiment. | Apply | Experiment with
@@ -25,8 +26,9 @@ S .No. | Learning Objective | Cognitive Level | Action Verb|
     To design experimental and calculation based simulator. The simulator would be a frame work that provide Kjeldahl apparatus details, reagent details, procedure and calculation to find out concentration of NH3-N in water and waste sample.
  
 #### 3. Task & Assessment Questions
- :--|:--|:--|:--|
+ 
 Sr No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
+:--|:--|:--|:--|
 1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure. |  
 2. | Requirement of reagents & standard solution. | Student will be understand required reagent & standard solution. | 1.	What type of water used for preparation of reagent & standard solution?
             2.  How  solution used to standardize
@@ -44,8 +46,9 @@ Sr No | Learning Objective to be met | Tasks to be performed by the students | A
 6. | Compare and conclude concentration of standard solution with experimental value of standard solution. | Compare. If deviation < ±5%   then accepts otherwise  repeated the test.
 <h5>4. Simulator Interaction</h5>
 <h5>Complete the following table giving the details of the Simulator interaction</h5>
-:--|:--|:--|
+
 What student will do? | What simulator will do? | Purpose of the task
+:--|:--|:--|
 Identified the required Kjeldahl distillation apparatus, glassware’s and understand the connection of apparatus. | Simulation show the all require glass water and its connections with the help of mouse pointer. | Understanding the setup and handling the apparatus and glassware carefully.
 1. Take 50ml of sample, DM water and standard solution in measuring cylinder in 3different distillation flask.
 Add distillation mineral water 200ml in all 3 distillation flask | Simulation display flask and measuring cylinder and DM water standard solution and sample and add in 3 distillation flask.
