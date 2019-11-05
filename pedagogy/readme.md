@@ -1,10 +1,11 @@
-<h1> 1.1 FOCUS AREA: </h1>
+ ## 1.1 FOCUS AREA: 
           Instrumental & Practical Skills.
 
-<h1> 1.2About the Experiment:</h1>
+<h5> 1.2About the Experiment:</h5>
         This Experiment will help the student to understand the experimental setup/requirement reagent and analyze the concentration of NH3-N of water and waste water sample.
 
-<h1> 1.3 Learning Objectives:</h1>
+<h5> 1.3 Learning Objectives:</h5>
+:--|:--|:--|:--|
 S .No. | Learning Objective | Cognitive Level | Action Verb|
 1. | Understand Kjeldahl distillation apparatus an reagent requirements.| Understand| Describe
 2. | Student will be understand sample Storage and selection of sample quantity for test. | Understand | Describe
@@ -14,16 +15,17 @@ S .No. | Learning Objective | Cognitive Level | Action Verb|
 5. | Student will be able to compare and conclude concentration of the standard solution and experimental value. | Analyze | Compare, Conclude
 	
 
-<h1>2.1 Instructional Strategy:</h1>
+<h5>2.1 Instructional Strategy:</h5>
 
-<h1> Instructional Strategy: </h1>
+<h5> Instructional Strategy: </h5>
                                           Expository.
-<h1>2.2 Assessment Method:</h1>
+<h5>2.2 Assessment Method:</h5>
 
-</h1>2.3 Description of sections:</h1>
+<h5>2.3 Description of sections:</h5>
     To design experimental and calculation based simulator. The simulator would be a frame work that provide Kjeldahl apparatus details, reagent details, procedure and calculation to find out concentration of NH3-N in water and waste sample.
  
- <h1>3. Task & Assessment Questions</h1>
+#### 3. Task & Assessment Questions
+ :--|:--|:--|:--|
 Sr No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure. |  
 2. | Requirement of reagents & standard solution. | Student will be understand required reagent & standard solution. | 1.	What type of water used for preparation of reagent & standard solution?
@@ -40,8 +42,9 @@ Sr No | Learning Objective to be met | Tasks to be performed by the students | A
 		2. How much minimum required distillation in the boric acid flask?
 5. | Calculation of the concentration of NH<sub>3</sub>-N in water sample and standard solution | Calculation of concentration NH<sub>3</sub> using formula for standard solution and water  sample. | Which normally sulphuric acid used  in titration.
 6. | Compare and conclude concentration of standard solution with experimental value of standard solution. | Compare. If deviation < ±5%   then accepts otherwise  repeated the test.
-		<h1>4. Simulator Interaction</h1>
-		<h1>Complete the following table giving the details of the Simulator interaction</h1>
+<h5>4. Simulator Interaction</h5>
+<h5>Complete the following table giving the details of the Simulator interaction</h5>
+:--|:--|:--|
 What student will do? | What simulator will do? | Purpose of the task
 Identified the required Kjeldahl distillation apparatus, glassware’s and understand the connection of apparatus. | Simulation show the all require glass water and its connections with the help of mouse pointer. | Understanding the setup and handling the apparatus and glassware carefully.
 1. Take 50ml of sample, DM water and standard solution in measuring cylinder in 3different distillation flask.
