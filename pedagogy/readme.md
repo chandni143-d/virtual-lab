@@ -26,13 +26,11 @@ S.No.| Learning Objective | Cognitive Level | Action Verb|
     To design experimental and calculation based simulator. The simulator would be a frame work that provide Kjeldahl apparatus details, reagent details, procedure and calculation to find out concentration of NH3-N in water and waste sample.
     <br>
  
-<h5> 3. Task & Assessment Questions</h5>
+#### 3. Task & Assessment Questions
 Sr No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--|
 1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure. | NaN
-2. | Requirement of reagents & standard solution. | Student will be understand required reagent & standard solution. | 1.What type of water used for preparation of reagent & standard solution?
-2.  How  solution used to standardize
-		H<sub>2</sub>SO<sub>4</sub> ?
+2. | Requirement of reagents & standard solution. | Student will be understand required reagent & standard solution. | 1.What type of water used for preparation of reagent & standard solution? 2.  How  solution used to standardize H<sub>2</sub>SO<sub>4</sub> ?
 3. | Selection of sample quantity. | Student will know how to select the appropriate sample quantity. | What is the concentration of NH<sub>3</sub>-N in clear water.
 4. | Performance of the experiment. | 1.Transfer sample to Kjeldahl distillation flask.
             2.	Add distilled water 200-250ml.
