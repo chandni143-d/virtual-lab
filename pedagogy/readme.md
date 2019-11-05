@@ -29,7 +29,7 @@ S.No.| Learning Objective | Cognitive Level | Action Verb|
  
 Sr No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--|
-1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure.       
+1. | Kjeldahl distillationApparatus connection. | Student will be following the standard procedure. |       
 2. | Requirement of reagents & standard solution. | Student will be understand required reagent & standard solution. | 1.What type of water used for preparation of reagent & standard solution?
 2.  How  solution used to standardize
 		H<sub>2</sub>SO<sub>4</sub> ?
