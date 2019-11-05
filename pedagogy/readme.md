@@ -1,4 +1,4 @@
-  ## 1.1 FOCUS AREA: 
+## 1.1 FOCUS AREA: 
           Instrumental & Practical Skills.
 
 <h5> 1.2About the Experiment:</h5>
@@ -9,11 +9,16 @@
 S .No. | Learning Objective | Cognitive Level | Action Verb|
 :--|:--|:--|:--|
 1. | Understand Kjeldahl distillation apparatus an reagent requirements.| Understand| Describe
+:--|:--|:--|:--|
 2. | Student will be understand sample Storage and selection of sample quantity for test. | Understand | Describe
+:--|:--|:--|:--|
 3. | Student will be able to perform the experiment. | Apply | Experiment with
+:--|:--|:--|:--|
 4. | Student will be able to calculate the concentration of NH<sub>3</sub>-N
 		given water sample. | Analyze | Test foranalyze
+:--|:--|:--|:--|
 5. | Student will be able to compare and conclude concentration of the standard solution and experimental value. | Analyze | Compare, Conclude
+:--|:--|:--|:--|
 	
 
 <h5>2.1 Instructional Strategy:</h5>
