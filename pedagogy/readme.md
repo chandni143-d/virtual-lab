@@ -1,3 +1,10 @@
+#### 1 Name of Faculty: Pradeep Kumar Verma
+#### 2 Institute: Rajkiya Engineering college Banda
+#### 3 Email ID : pkverma.iet@gmail.com
+#### 4 Discipline to which the Lab belongs: Environmental Science & Engineering
+#### 5Name of the Lab: Environmental Engineering Lab 3
+#### 6 Name of experiment: To determine the concentration of Ammonia Nitrogen in water and waste water sample using Kjeldahl Distillation Apparatus and titration.
+
 ## 1.1 FOCUS AREA: 
           Instrumental & Practical Skills.
 
